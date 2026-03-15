@@ -2,7 +2,7 @@
 # 🌸 Hi, I'm Stellar Ace!
 
 <p align="center">
-  <img src=<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20Stellar%20Ace%27s%20Profile&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src=<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff69b4&text=Welcome%20to%20Stellar%20Ace%27s%20Profile&section=header&reversal=false&fontSize=50&fontColor=ffffff&textBg=false&fontAlign=51&animation=fadeIn" />
 </p>
 
 <p align="center">
