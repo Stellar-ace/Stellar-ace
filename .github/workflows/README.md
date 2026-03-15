@@ -84,6 +84,10 @@
 <img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
+<a href="https://discord.gg/USxTVUyG">
+<img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 <a href="mailto:botstats20@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
