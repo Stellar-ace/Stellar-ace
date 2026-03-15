@@ -74,12 +74,8 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://discord.com/users/1346155893422817310">
+<img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="mailto:botstats20@gmail.com">
