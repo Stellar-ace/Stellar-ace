@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+<a href="https://discord.gg/USxTVUyG">
+<img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
 </p>
 
