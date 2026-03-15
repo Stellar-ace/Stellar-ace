@@ -63,8 +63,8 @@
 # 🎮 Coding Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stellar-ace&theme=react-dark&bg_color=20232a&color=ff69b4&line=ff69b4&point=ffffff" />
+  
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stellar-ace&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&area_color=ff69b4&hide_border=true" />
 
 </p>
 
