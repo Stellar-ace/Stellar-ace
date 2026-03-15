@@ -85,8 +85,8 @@ Hi 👋 I'm YOUR_NAME
 
 # 👀 Profile Views
 
-![views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![views](https://komarev.com/ghpvc/?username=Stellar-ace)
 
 ---
 
-⭐ From [YOUR_NAME](https://github.com/YOUR_USERNAME)
+⭐ From [Stellar Ace](https://github.com/Stellar-ace)
