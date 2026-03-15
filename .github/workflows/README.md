@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 * 💻 Passionate developer
 * 🌱 Currently learning **new technologies**
-* 🚀 Love building **cool open source projects**
+* 🚀 Love building **cool projects**
 * 🎯 Goal: Become an **elite software engineer**
 
 ---
@@ -93,7 +93,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
 
 <p align="center">
-
+<div align="center">
 💖 Thanks for visiting my GitHub profile!
-
+</div>
 </p>
