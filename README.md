@@ -2,7 +2,7 @@
 # 🌸 Hi, I'm Stellar Ace!
 
 <p align="center">
-  <img src=<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff69b4&text=Welcome%20to%20Stellar%20Ace%27s%20Profile&section=header&reversal=false&fontSize=50&fontColor=ffffff&textBg=false&fontAlign=51&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff69b4&text=Welcome%20to%20Stellar%20Ace%27s%20Profile&section=header&reversal=false&fontSize=50&fontColor=ffffff&textBg=false&fontAlign=51&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -36,15 +36,15 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stellar-ace&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=ff69b4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stellar-ace&layout=compact&theme=radical&title_color=ff69b4" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stellar-ace&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 
 </p>
 
@@ -60,29 +60,13 @@
 
 ---
 
-# 🎮 Spotify / Coding Activity
+# 🎮 Coding Activity
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stellar-ace&theme=react-dark&bg_color=20232a&color=ff69b4&line=ff69b4&point=ffffff" />
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&color=ff69b4&line=ff69b4&point=ffffff" />
-
-</p>
-
----
-
-# 🌷 Featured Projects
-
-| Project         | Description                 |
-| --------------- | --------------------------- |
-| 🌸 Project One  | Awesome project description |
-| 💗 Project Two  | Awesome project description |
-| ✨ Project Three | Awesome project description |
 
 ---
 
@@ -98,7 +82,7 @@
 <img src="https://img.shields.io/badge/Twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:botstats20@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
