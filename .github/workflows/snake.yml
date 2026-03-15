@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Cool Snake
 
 on:
   schedule:
@@ -12,13 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Stellar-ace
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-pink.svg?color_snake=ff69b4&color_dots=#ebedf0,#ffc0cb,#ff69b4,#ff1493,#ff69b4
 
-      - name: Push snake
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
