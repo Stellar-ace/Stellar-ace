@@ -13,87 +13,30 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216656976-dc8a6c70-3c16-4c4b-a4df-1c3c2de3c8ad.gif" width="100%" />
 
-# 💗 About Me
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/juQJVJfUGQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stellar@nexio.im) 
 
-* 💻 Passionate developer
-* 🌱 Currently learning **new technologies**
-* 🚀 Love building **cool projects**
-* 🎯 Goal: Become an **elite software engineer**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Stellar-ace&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Stellar-ace&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Stellar-ace&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Stellar-ace&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 🧠 Skill Icons
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,html,css,tailwind,git,github,vscode" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stellar-ace&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stellar-ace&layout=compact&theme=radical&title_color=ff69b4" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stellar-ace&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Stellar-ace&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Stellar-ace&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📈 Contribution Snake Animation
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Stellarace82) 
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Stellar-ace/Stellar-ace/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-# 🎮 Coding Activity
-
-<p align="center">
   
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stellar-ace&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&area_color=ff69b4&hide_border=true" />
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://discord.com/users/1346155893422817310">
-<img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/USxTVUyG">
-<img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="mailto:botstats20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
-
-<p align="center">
-<div align="center">
-💖 Thanks for visiting my GitHub profile!
-</div>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
